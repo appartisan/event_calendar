@@ -5,7 +5,7 @@
 
 Gem::Specification.new do |s|
   s.name = %q{event-calendar}
-  s.version = "2.5.0"
+  s.version = "2.5.1"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = [%q{Jeff Schuil}]
@@ -14,14 +14,14 @@ Gem::Specification.new do |s|
   s.email = %q{}
   s.extra_rdoc_files = [
     "CHANGELOG.rdoc",
-    "README.rdoc"
+    "README.md"
   ]
   s.files = [
     "CHANGELOG.rdoc",
     "Gemfile",
     "Gemfile.lock",
     "MIT-LICENSE",
-    "README.rdoc",
+    "README.md",
     "Rakefile",
     "VERSION",
     "event-calendar.gemspec",
